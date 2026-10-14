@@ -2,7 +2,7 @@
 
 A claw-machine game you play in your browser.
 
-**Play it here:** https://mfadaee.github.io/giant-grabber--k/
+**Play it here:** https://mfadaee.github.io/Giant-Grabber--K/
 
 ## How to play
 
