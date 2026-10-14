@@ -1,8 +1,7 @@
 # Giant Grabber
 
-A claw-machine game you play in your browser.
-
-**Play it here:** https://mfadaee.github.io/Giant-Grabber--K/
+> ### ▶ [Play Giant Grabber now](https://mfadaee.github.io/Giant-Grabber--K/)
+> A claw-machine game you play in your browser, on a computer, phone or tablet. No download needed.
 
 ## How to play
 
